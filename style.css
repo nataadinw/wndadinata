@@ -1,0 +1,217 @@
+#abc {
+    font-family: 'Protest Guerrilla';
+    text-shadow: 0 0 5px #fff,
+                  0 0 10px #fff,
+                  0 0 20px red,
+                  0 0 25px red,
+                  0 0 40px red;
+    stroke: #fff;
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+
+img {
+    padding-top: 20px;
+    padding-bottom: 40px;
+  }
+
+h3 {
+    font-family: 'century gothic';
+    text-shadow: 0 0 5px #fff,
+                  0 0 10px #fff,
+                  0 0 20px white,
+                  0 0 30px white,
+                  0 0 40px white;
+    padding-top: 30px;
+}
+#jdm {
+    max-width: 375px;
+    text-align: center;
+    background-color: whoke;
+    font-family: 'Cinzel';
+    padding: 3px 20px;
+    text-shadow: 0 0 10px #fff,
+                  0 0 10px #fff,
+                  0 0 20px red,
+                  0 0 25px white,
+                  0 0 40px black;
+    stroke: #fff;
+}
+body {
+    background-image: url('bggo3.jpg');
+}
+
+#MainTable {
+    width: 100%;
+    background-color: #D8F0DA;
+    border: 1px;
+    min-width: 100%;
+    position: relative;
+    opacity: 0.97;
+    background: transparent;
+}
+table {
+    background-color: #D8F0DA;
+    border: 1px;
+    position: relative;
+    opacity: 0.97;
+    background: transparent;
+    border-radius: 20px;
+    margin-bottom: 25px;
+}
+td {
+    background-color: #D8F0DA;
+    border: 1px;
+    min-width: 100%;
+    position: relative;
+    opacity: 0.97;
+    background: transparent;
+}
+#r34 {
+    text-align: justify;
+    font-family: 'Bebas Neue';
+}
+#awur {
+    text-align: center;
+    font-family: 'Protest Guerrilla';
+    margin-top: 200x;
+    font-size: 28px;
+}
+#kentang {
+    font-size: 39px;
+    font-family: 'Protest Guerrilla';
+    text-shadow: 0 0 5px #fff,
+                  0 0 10px #fff,
+                  0 0 20px red,
+                  0 0 25px red,
+                  0 0 40px red;
+    stroke: #fff;
+}
+.www {
+    background-color: black;
+    background: transparent;
+    border: 2px solid rgba(255, 255, 255, .2);
+    backdrop-filter: blur(10px);
+    color: white;
+    border-radius: 12px;
+    padding: 10px 25px;
+}
+.lagu {
+    align-items: center;
+    margin-top: 25px;
+    margin-bottom: 70px;   
+    background-colored: red;
+}
+#mukidi{
+    margin-bottom: 200px;
+}
+.list{
+    background-color: darkred;
+    font-size: 18px;
+    padding: 10px 25px;
+    background-size: 20%;
+    border-radius: 12px;
+    font-family: 'PT Serif Caption';
+    text-decoration: underline;
+}
+.lagu2{
+    align-items: center;
+    margin-top: 25px;
+    margin-bottom: 200px;   
+    background-colored: red;
+}
+#haha{
+    text-align: center;
+    font-family: 'Protest Guerrilla';
+    margin-top: 10x;
+    font-size: 23px;
+}
+
+.wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: ceter;
+    height: 50v;
+}
+
+.section-title{
+    text-align: ceter;
+    font-size: 25px;
+    font-family: 'Protest Guerrilla';
+    margin-bottom: 20px;
+    color: red;
+    margin-left: 20px;
+    text-shadow: 0 0 5px #fff,
+                  0 0 10px #fff,
+                  0 0 20px red,
+                  0 0 25px red,
+                  0 0 40px red;
+    stroke: #fff;
+}
+
+.contact-page{
+    max-width: 600px;
+    width: 100%;
+    padding: 2rem;
+}
+
+.contact-form{
+    display: grid;
+    grid-gap: 1rem;
+}
+
+.contact-card{
+    position: relative;
+    width: 100%;
+    height: 50px;
+    margin-bottom: 10px;
+}
+
+.contact-input{
+    width: 40%;
+    height: 40%;
+    background: ;
+    border: 2px solid red;
+    padding: .5rem 8rem;
+    border-radius: 5px;
+    margin-left: -30px;
+    background-color: darkred;
+    color: white;
+    
+}
+
+.contact-label{
+    color: #fff;
+    position: absolute;
+    top: -16px;
+    left: 16px;
+    font-size: .813rem;
+    padding: 8px;
+    pointer-events: none;
+    transition: 0.3s ease-out;
+}
+
+.contact-card.contact-area textarea{
+    height: 100px;
+    resize: none;
+}
+
+.button{
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin-top: 5rem;
+    margin-left: 120px;
+    background-color: red;
+    color: white;
+    font-weight: 700;
+    padding: 1rem 2rem;
+    border: none;
+    border-radius: 5px;
+    transition: transform 0.3s ease;
+}
+
+.button:hover{
+    transform: scale(1.02);
+}
